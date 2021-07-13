@@ -44,7 +44,7 @@ Credits:
 	Vishad Mehta (@vm_47) for the naming
 
 
-Report any bugs: @arjan.siddhpura
+Report any bugs: @arjan.siddhpura. 
 No copyright infringement intended (lol)
 
 Arjan Siddhpura. 

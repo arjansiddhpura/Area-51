@@ -1,14 +1,14 @@
-Area 51
+# Area 51
 
 
-Play:
+## Play:
 
 	Simply click on Area51.exe
 	Press P or RETURN or click to play. Press Q or click to exit
 	Ignore virus warnings, just false positives
 
 
-The Game:
+## The Game:
 
 	Runs at 1200x800
 	You have 3 ships
@@ -28,7 +28,7 @@ The Game:
 	Set your own high score!
 	
 
-Some salient features:
+## Some salient features:
 
 	Stars are never at the same position anytime you run the game again.
 	Bullets launch with randomized selection of colors. 
@@ -37,17 +37,13 @@ Some salient features:
 	High score is globally saved everytime
 
 
-Credits:
+## Credits:
 
 	Python Crash Course by Eric Matthes
 	Pygame and Stack Overflow
 	Vishad Mehta (@vm_47) for the naming
-
-
-Report any bugs: @arjan.siddhpura. 
-No copyright infringement intended (lol)
-
-Arjan Siddhpura. 
+	
+## Project coded by me. 
 
 <img width="1312" alt="Screenshot 2023-03-19 at 14 29 45" src="https://user-images.githubusercontent.com/75858676/226178402-a7b22b1e-c138-42d7-ac37-2ecdb16e3b2d.png">
 
